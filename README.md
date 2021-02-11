@@ -15,7 +15,7 @@
 
 ## General Info
 
-This is simple To Do List application.
+*This is simple To Do List application.
 
 ## Technologies
 * CoreData
