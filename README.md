@@ -15,7 +15,7 @@
 
 ## General Info
 
-*This is simple To Do List application.
+* This is simple To Do List application.
 
 ## Technologies
 * CoreData
@@ -30,4 +30,3 @@
 ## Contact
 
 * https://github.com/1Ostep1
-* https://www.linkedin.com/in/ramazan-iusupov-8053b2205/
