@@ -13,9 +13,9 @@
 
 <img width="1440" , height="1000" src="https://user-images.githubusercontent.com/60435025/107606387-1c285e80-6c60-11eb-9d40-b782aed30005.png">
 
-<img src= "https://user-images.githubusercontent.com/60435025/107606393-1fbbe580-6c60-11eb-810b-9188a62b2911.gif" width="500" height="800" />
+<img src= "https://user-images.githubusercontent.com/60435025/107606393-1fbbe580-6c60-11eb-810b-9188a62b2911.gif" width="350" height="700" />
 
-<img src= "https://user-images.githubusercontent.com/60435025/107606397-234f6c80-6c60-11eb-94f4-e798d806fc80.gif" width="500" height="800" />
+<img src= "https://user-images.githubusercontent.com/60435025/107606397-234f6c80-6c60-11eb-94f4-e798d806fc80.gif" width="350" height="700" />
 
 ## General Info
 
