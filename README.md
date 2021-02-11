@@ -13,7 +13,9 @@
 
 ![Simulator Screen Shot - iPhone 11 - 2021-02-11 at 11 40 55](https://user-images.githubusercontent.com/60435025/107606387-1c285e80-6c60-11eb-9d40-b782aed30005.png)
 
-![](https://user-images.githubusercontent.com/60435025/107606393-1fbbe580-6c60-11eb-810b-9188a62b2911.gif)
+<img src= "https://user-images.githubusercontent.com/60435025/107606393-1fbbe580-6c60-11eb-810b-9188a62b2911.gif" width="500" height="40" />
+
+![]()
 
 ![](https://user-images.githubusercontent.com/60435025/107606397-234f6c80-6c60-11eb-94f4-e798d806fc80.gif)
 
