@@ -5,7 +5,7 @@
 
 
 * [General info](#general-info)
-* [Technologies](#technoligies)
+* [Technologies](#Technoligies)
 * [Notes](#notes)
 * [Contact](#contact)
 
